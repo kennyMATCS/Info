@@ -1,0 +1,8 @@
+name: Info
+version: 0.1
+author: Kenny
+description: Displays the API the server is using.
+main: me.kenny.info.Info
+commands:
+  info:
+    description: Displays the API the server is using.
